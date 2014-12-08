@@ -1,0 +1,20 @@
+{
+  "name": "node-tistoryAPI",
+  "version": "1.0.0",
+  "description": "A Node.js library for interacting with the Tistory RESTful API.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schrobby/node-tistoryAPI.git"
+  },
+  "keywords": [
+    "tistory",
+    "api"
+  ],
+  "author": "schrobby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schrobby/node-tistoryAPI/issues"
+  },
+  "homepage": "https://github.com/schrobby/node-tistoryAPI"
+}
