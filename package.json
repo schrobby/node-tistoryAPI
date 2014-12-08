@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/schrobby/node-tistoryAPI/issues"
   },
-  "homepage": "https://github.com/schrobby/node-tistoryAPI"
+  "homepage": "https://github.com/schrobby/node-tistoryAPI",
+  "dependencies": {
+    "request": "*",
+    "xml2js": "*"
+  }
 }
